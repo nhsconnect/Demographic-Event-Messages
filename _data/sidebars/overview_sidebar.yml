@@ -1,7 +1,7 @@
 entries:
-- title: Demographics Update Event Messages  
-  product: Demographics Update Event Messages  
-  version: 1.2.1-Release Candidate
+- title: Demographics Event Messages  
+  product: Demographics Event Messages  
+  version: 
   levels: one
   folders:
 
@@ -12,59 +12,3 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
-    - title: The Journey
-      url: /overview_the_journey.html
-      output: web
-    - title: Guide Versioning
-      url: /overview_guide_versioning.html
-      output: web
-    - title: Release Notes
-      url: /overview_release_notes.html
-      output: web
-    - title: Glossary
-      url: /overview_glossary.html
-      output: web
-
-  - title: Messaging Architecture
-    output: web,pdf
-    folderitems:
-    - title: Overview
-      url: /explore_msg_architecture_overview.html
-      output: web
-      type: homepage
-  - title: Messages
-    output: web,pdf
-    folderitems:
-    - title: Example Messages
-      url: /explore_example_messages.html
-      output: web
-      type: homepage
-    - title: PDS Birth Notification
-      url: /explore_pds_birth_notification.html
-      output: web
-    - title: PDS Change Of Address
-      url: /explore_pds_change_of_address.html
-      output: web
-    - title: PDS Change of GP
-      url: /explore_pds_change_of_gp.html
-      output: web
-    - title: PDS Death Notification
-      url: /explore_pds_death_notification.html
-      output: web
-
-  - title: Help & Support
-    output: web
-    folderitems:
-    - title: Contact Us
-      url: /support_contact.html
-      output: web
-    - title: CareConnect FHIR Profiles 
-      url: /support_careconnect.html
-      output: web
-      subfolders:
-      - title: Where Else Can I Look?
-        output: web
-        subfolderitems:
-        - title: FHIR Tools
-          url: /support_fhirtools.html
-          output: web
